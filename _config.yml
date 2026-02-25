@@ -22,7 +22,7 @@ title: Engineering Physics 25PY101 (S2)
 email: gs_phy@vignan.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Course homepage
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Engineering-Physics-Y1S2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ColonelSreekar
 github_username:  Baalkikhaal
