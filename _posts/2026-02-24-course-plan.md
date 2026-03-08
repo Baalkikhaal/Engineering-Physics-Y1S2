@@ -1,7 +1,7 @@
 ---
 layout: post
 author: fubar
-title: "Course plan for 25PY101 (S2)"
+title: "Course plan"
 excerpt: "Course content"
 date: 24th February, 2026
 ---
