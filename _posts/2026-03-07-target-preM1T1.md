@@ -14,3 +14,8 @@ date: 07th March, 2026
 
 - [Mock - Set I]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/mocks/mock_pre_M1T1_Set_1.pdf)
 - [Mock - Set II]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/mocks/mock_pre_M1T1_Set_2.pdf)
+
+# Exam
+
+- [Set with scheme of evaluation]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/targets/25PY101-pre-M1T1-with-scheme-of-evaluation.pdf)
+- [Other set]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/targets/25PY101-pre-M1T1-set-2.pdf)
