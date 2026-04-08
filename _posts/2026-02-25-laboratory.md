@@ -10,9 +10,9 @@ date: 25th February, 2026
 
 - [Standard Operating Procedure]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/laboratory/Laboratory_SOP.pdf)
 
-# Batch representatives
+# Markings
 
-- [Info on batch representatives](https://vignanuniversityorg-my.sharepoint.com/:x:/g/personal/gs_phy_vignan_ac_in/IQCBsk-sRTYcRqL8tjuBhfTTAZYMfmwS7TOtZKBIvIhm6dw?e=pPhTtd)
+- [M1 and M2 T5 markings](https://vignanuniversityorg-my.sharepoint.com/:x:/g/personal/gs_phy_vignan_ac_in/IQCBsk-sRTYcRqL8tjuBhfTTAZYMfmwS7TOtZKBIvIhm6dw?e=pPhTtd)
 
 ## Laboratory procedure
 
