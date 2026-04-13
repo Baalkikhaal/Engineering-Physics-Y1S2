@@ -8,7 +8,7 @@ date: 07th April, 2026
 
 # Module bank
 
-- [M2 - Module bank]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/module-banks/25PY101-module-bank.pdf)
+- [M2 - Module bank]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/module-banks/25PY101-module-bank-after-new-guidelines.pdf)
 
 
 
