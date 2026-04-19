@@ -18,3 +18,7 @@ date: 15th April, 2026
 # References
 
 - [References for pre M2T1 slot 1]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/references/references_pre_M2T1_slot_1.pdf)
+
+# Miniversion of slides
+
+- [Slides for assessment]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/slides/assessment/25PY101_pre_M2T1_slot1_slides.pdf)
