@@ -10,3 +10,7 @@ date: 15th April, 2026
 
 - [Mock - Set I]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/mocks/mock_pre_M2T1_Set_1.pdf)
 - [Mock - Set II]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/mocks/mock_pre_M2T1_Set_2.pdf)
+
+# Drills
+
+- [Drill on Fermi level and conductivity in intrinsic semiconductor]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/drills/25PY101-pre-M2T1-slot1-drill.pdf)
