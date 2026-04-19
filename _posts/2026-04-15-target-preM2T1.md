@@ -14,3 +14,7 @@ date: 15th April, 2026
 # Drills
 
 - [Drill on Fermi level and conductivity in intrinsic semiconductor]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/drills/25PY101-pre-M2T1-slot1-drill.pdf)
+
+# References
+
+- [References for pre M2T1 slot 1]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/references/references_pre_M2T1_slot_1.pdf)
