@@ -8,7 +8,8 @@ date: 25th May, 2026
 
 # Exam version of slides
 
-- [Summative slides exam version]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/slides/assessment/25PY101_summative_slides.pdf)
+- [Summative slides exam version (268 slides)]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/slides/assessment/25PY101_summative_slides_exam_version.pdf)
+
 
 # Summative preparation
 
