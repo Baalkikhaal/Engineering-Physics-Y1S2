@@ -8,13 +8,12 @@ date: 25th May, 2026
 
 # Exam version of slides
 
-- [M1 slides exam version]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/slides/assessment/25PY101_M1T1_slides.pdf)
-- [M2 slides exam version]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/slides/assessment/25PY101_M2T1_slides.pdf)
+- [Summative slides exam version]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/slides/assessment/25PY101_summative_slides.pdf)
 
 # Summative preparation
 
 - [Homework 01]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/homeworks/homework-summative-preparation-01.pdf)
 - [Homework 02]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/homeworks/homework-summative-preparation-02.pdf)
 - [Homework 03]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/homeworks/homework-summative-preparation-03.pdf)
-
-
+- [Homework 04]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/homeworks/homework-summative-preparation-04.pdf)
+- [Homework 05]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/homeworks/homework-summative-preparation-05.pdf)
