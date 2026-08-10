@@ -31,3 +31,4 @@ date: 25th May, 2026
 - [Set 02]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/summative/previous_years/set_02.pdf)
 - [Set 03]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/summative/previous_years/set_03.pdf)
 - [Set 04]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/summative/previous_years/set_04.pdf)
+- [Set 05]({{ site.baseurl }}/assets/documents/VFSTRU/25PY101/summative/previous_years/set_05.pdf)
